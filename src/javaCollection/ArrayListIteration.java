@@ -20,7 +20,7 @@ public class ArrayListIteration {
 			System.out.println(shows);
 			
 		});
-		System.out.println("************Print usin Iterator******************");
+		System.out.println("************Print Using Iterator******************");
 		//2. using Iterator
 		Iterator<String> it = tvSeries.iterator();
 		
